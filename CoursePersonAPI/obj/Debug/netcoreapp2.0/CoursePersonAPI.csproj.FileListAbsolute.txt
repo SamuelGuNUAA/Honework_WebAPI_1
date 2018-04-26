@@ -1,0 +1,11 @@
+C:\Users\Samuel Gu\source\repos\CoursePersonAPI\CoursePersonAPI\bin\Debug\netcoreapp2.0\CoursePersonAPI.deps.json
+C:\Users\Samuel Gu\source\repos\CoursePersonAPI\CoursePersonAPI\bin\Debug\netcoreapp2.0\CoursePersonAPI.runtimeconfig.json
+C:\Users\Samuel Gu\source\repos\CoursePersonAPI\CoursePersonAPI\bin\Debug\netcoreapp2.0\CoursePersonAPI.runtimeconfig.dev.json
+C:\Users\Samuel Gu\source\repos\CoursePersonAPI\CoursePersonAPI\bin\Debug\netcoreapp2.0\CoursePersonAPI.dll
+C:\Users\Samuel Gu\source\repos\CoursePersonAPI\CoursePersonAPI\bin\Debug\netcoreapp2.0\CoursePersonAPI.pdb
+C:\Users\Samuel Gu\source\repos\CoursePersonAPI\CoursePersonAPI\obj\Debug\netcoreapp2.0\CoursePersonAPI.csprojResolveAssemblyReference.cache
+C:\Users\Samuel Gu\source\repos\CoursePersonAPI\CoursePersonAPI\obj\Debug\netcoreapp2.0\CoursePersonAPI.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Gu\source\repos\CoursePersonAPI\CoursePersonAPI\obj\Debug\netcoreapp2.0\CoursePersonAPI.AssemblyInfoInputs.cache
+C:\Users\Samuel Gu\source\repos\CoursePersonAPI\CoursePersonAPI\obj\Debug\netcoreapp2.0\CoursePersonAPI.AssemblyInfo.cs
+C:\Users\Samuel Gu\source\repos\CoursePersonAPI\CoursePersonAPI\obj\Debug\netcoreapp2.0\CoursePersonAPI.dll
+C:\Users\Samuel Gu\source\repos\CoursePersonAPI\CoursePersonAPI\obj\Debug\netcoreapp2.0\CoursePersonAPI.pdb
